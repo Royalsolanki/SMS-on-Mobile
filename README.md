@@ -1,5 +1,3 @@
-# SMS-on-Mobile
-
 For this code compile fine you have to add library 
 # Bulk_Sms_Library.jar
 
